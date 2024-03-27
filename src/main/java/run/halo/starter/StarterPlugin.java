@@ -21,7 +21,7 @@ public class StarterPlugin extends BasePlugin {
 
     @Override
     public void start() {
-        System.out.println("插件启动成功！");
+        System.out.println("测试提交github成功！");
     }
 
     @Override
